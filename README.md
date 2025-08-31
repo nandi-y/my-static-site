@@ -1,1 +1,1 @@
-# my-static-site
+# my-static-news-site
